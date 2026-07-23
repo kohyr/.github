@@ -29,7 +29,7 @@ type(scope): short description
 
 ## Questions?
 
-Use [GitHub Discussions](https://github.com/orgs/kohyr-app/discussions) for questions — not Issues.
+Use [GitHub Discussions](https://github.com/orgs/kohyr/discussions) for questions, not Issues.
 
 ## License
 
