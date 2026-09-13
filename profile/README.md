@@ -6,8 +6,7 @@
 
 Kohyr puts a deterministic gate in front of what an agent tries to do, and signs
 every decision, allow or deny, into a per-session Ed25519 chain. That record
-verifies offline: no network, no Kohyr service in the loop. It runs over any
-agent runtime.
+verifies offline: no network, no Kohyr service in the loop. It is runtime-agnostic.
 
 `deterministic gate` &nbsp;·&nbsp; `signed record` &nbsp;·&nbsp; `offline verifier`
 
